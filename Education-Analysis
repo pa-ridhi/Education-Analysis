@@ -1,0 +1,16 @@
+# NIRF University Rankings Analysis 2024
+
+## About
+Analysis of top 100 Indian universities using official NIRF 2024 data.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Excel
+
+## Key Findings
+- Tamil Nadu has the most top universities (22)
+- IISc Bangalore is ranked #1 with score 83.29
+- West Bengal has highest average score of 63.24
+- Chennai is the city with most top universities (8)
